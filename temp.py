@@ -6,4 +6,8 @@ x = x // 10
 temp = x % 10
 print(temp)
 x = x // 10
+temp = x % 10
+print(temp)
+x = x // 10
+
 print(x)
