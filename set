@@ -1,4 +1,4 @@
-x = {1 , 2 , 3 , 10 , 50 , 2 , 'ali'}
-print(x)
+x =int(input("Please enter ypur weight: "))
 print(type(x))
-#اعداد تکراری در آن چاپ نمیشود
+y = x * 1000
+print("Your Weight With Gram is :" ,  y )
