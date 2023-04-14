@@ -1,2 +1,4 @@
 import decimal  
-print(decimal.Decimal('0.6') + decimal.Decimal('0.3'))
+x = float(decimal.Decimal('0.6') + decimal.Decimal('0.3'))
+print(x)
+print(x == 0.9)
