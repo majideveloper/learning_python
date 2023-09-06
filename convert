@@ -1,4 +1,0 @@
-x =int(input("Please enter ypur weight: "))
-print(type(x))
-y = x * 1000
-print("Your Weight With Gram is :" ,  y )
